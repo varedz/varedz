@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Varedz and I'm a Fullstack Software Engineer with a passion for developing scalable applications and working across the full stack. I work on ground-up projects using TS, JS, PHP, and MySQL.
+My name is Kash and I'm a Fullstack Software Engineer with a passion for developing scalable applications and working across the full stack. I work on ground-up projects using TS, JS, PHP, and MySQL.
 
 ### 🛠 &nbsp;Tech Stack
 
