@@ -20,8 +20,6 @@ My name is Kash and I'm a Fullstack Software Engineer with a passion for develop
 
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=varedz&style=flat-square)
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=varedz&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="vaulstein" /></p>
-
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varedz&theme=radical" alt="varedz" /></p>
  
